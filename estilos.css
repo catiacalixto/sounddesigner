@@ -1,0 +1,14 @@
+body {
+    font-family: verdana;
+    color: blue;
+    background-image:url("https://www.stickerforwall.com/21785-thickbox/vinyl-music-vibrations.jpg");
+    background-size: 100vw 120vh;
+    background-color: gray;
+    
+  }
+  .menu li {
+    color: red;
+    font-size: 16px;
+  
+   
+  }
